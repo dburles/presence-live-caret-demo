@@ -14,10 +14,12 @@ Template.user.helpers({
   }
 });
 
+liveCaret.bindTo = '.col-md-8';
+
 Template.form1.rendered = function() {
-  bindLiveCaret();
+  liveCaret.bindLiveCaret();
 };
 
 Template.form2.rendered = function() {
-  bindLiveCaret();
+  liveCaret.bindLiveCaret();
 };

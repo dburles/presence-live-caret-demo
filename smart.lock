@@ -13,7 +13,7 @@
       "presence-live-caret": {
         "git": "https://github.com/dburles/meteor-presence-live-caret.git",
         "branch": "routed",
-        "commit": "a02892e046db60c6530bd9363d752c8b3af56663"
+        "commit": "70615da1792807891847e64180c55f3374fae02d"
       },
       "accounts-ui-bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
