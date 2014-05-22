@@ -1,0 +1,28 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "presence-live-caret": {
+        "git": "https://github.com/dburles/meteor-presence-live-caret.git",
+        "branch": "master"
+      }
+    },
+    "packages": {
+      "presence-live-caret": {
+        "git": "https://github.com/dburles/meteor-presence-live-caret.git",
+        "branch": "master",
+        "commit": "f9ab1fa14cb7a567078c1ce079f0002960a9f49d"
+      },
+      "presence": {
+        "git": "https://github.com/dburles/meteor-presence.git",
+        "tag": "v0.4.5",
+        "commit": "163df9a9278c234a0ccbeaad8e4868a4571816c8"
+      },
+      "caret-position": {
+        "git": "https://github.com/StockBase/meteor-caret-position.git",
+        "tag": "v2.1.0-3",
+        "commit": "6028cf980f62cbf72cb2ea527091a3a31f87b8a7"
+      }
+    }
+  }
+}
