@@ -4,16 +4,17 @@
     "basePackages": {
       "presence-live-caret": {
         "git": "https://github.com/dburles/meteor-presence-live-caret.git",
-        "branch": "routed"
+        "branch": "master"
       },
       "accounts-ui-bootstrap-3": {},
-      "bootstrap-3": {}
+      "bootstrap-3": {},
+      "iron-router-active": {}
     },
     "packages": {
       "presence-live-caret": {
         "git": "https://github.com/dburles/meteor-presence-live-caret.git",
-        "branch": "routed",
-        "commit": "70615da1792807891847e64180c55f3374fae02d"
+        "branch": "master",
+        "commit": "4977882546d0c1d3359ef1aa3bf4795a8f2f4017"
       },
       "accounts-ui-bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
@@ -24,6 +25,11 @@
         "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
         "tag": "v3.1.1-1",
         "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "iron-router-active": {
+        "git": "https://github.com/XpressiveCode/iron-router-active.git",
+        "tag": "v0.2.0",
+        "commit": "1b05aad5325c3dfdb5186b9c288aa53013d767b8"
       },
       "presence": {
         "git": "https://github.com/dburles/meteor-presence.git",

@@ -12,9 +12,9 @@
   <div class="container">
     <div class="header">
       <ul class="nav nav-pills pull-right">
-        <li class="{{activePage 'home'}}"><a href="{{pathFor 'home'}}">Home</a></li>
-        <li class="{{activePage 'form1'}}"><a href="{{pathFor 'form1'}}">Form 1</a></li>
-        <li class="{{activePage 'form2'}}"><a href="{{pathFor 'form2'}}">Form 2</a></li>
+        <li class="{{isActiveRoute 'home'}}"><a href="{{pathFor 'home'}}">Home</a></li>
+        <li class="{{isActiveRoute 'form1'}}"><a href="{{pathFor 'form1'}}">Form 1</a></li>
+        <li class="{{isActiveRoute 'form2'}}"><a href="{{pathFor 'form2'}}">Form 2</a></li>
         <li class=""><a>{{> loginButtons align="right"}}</a></li>
       </ul>
       <h3 class="text-muted">Cursor Position Test</h3>

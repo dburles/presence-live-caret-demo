@@ -4,6 +4,7 @@
       "git": "https://github.com/dburles/meteor-presence-live-caret.git"
     },
     "accounts-ui-bootstrap-3": {},
-    "bootstrap-3": {}
+    "bootstrap-3": {},
+    "iron-router-active": {}
   }
 }
