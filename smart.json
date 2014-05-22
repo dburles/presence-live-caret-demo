@@ -1,8 +1,7 @@
 {
   "packages": {
     "presence-live-caret": {
-      "git": "https://github.com/dburles/meteor-presence-live-caret.git",
-      "branch": "routed"
+      "git": "https://github.com/dburles/meteor-presence-live-caret.git"
     },
     "accounts-ui-bootstrap-3": {},
     "bootstrap-3": {}
