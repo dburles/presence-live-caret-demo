@@ -9,3 +9,7 @@ insecure
 presence
 presence-live-caret
 caret-position
+iron-router
+accounts-password
+accounts-ui-bootstrap-3
+bootstrap-3
